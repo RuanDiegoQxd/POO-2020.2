@@ -1,0 +1,1 @@
+Foi uma atividade bacana, me vi em vários problemas, mas consegui resolver tudo com os códigos do github, demorei algumas horas pra faze-lo, umas 5 horas mais ou menos, não estou engatado ainda no java, a aula em ead, definitivamente não esta dando certo pra mim, mas sigo tentando :)
