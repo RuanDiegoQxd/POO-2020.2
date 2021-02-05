@@ -1,0 +1,1 @@
+Esse foi um dos códigos mais difíceis até agora e eu definitivamente não conseguui fazer sozinho. Davi dos Santos me deu uma ajuda imensa! Tirando umas horas do dia pra me ajudar a produzir o código. Enfim aprendei muita coisa.
