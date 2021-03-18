@@ -1,0 +1,1 @@
+Tive bastante dificuldade ainda com esse código, mas consegui fazê-lo, utilizei da ajuda das dúvidas no discord e pesquisei algumas coisas no google. Passei alguns dias fazendo esses código, diria que deu até umas 10 horas, aprendi muita lógica de programação nesse código, por exemplo, chamar com mais facilidade funções de outras classes, o que eu tinha bastante dificuldade :>
